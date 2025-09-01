@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/chat/page",{
+
+/***/ "(app-pages-browser)/./styles/Chat.module.css":
+/*!********************************!*\
+  !*** ./styles/Chat.module.css ***!
+  \********************************/
+/***/ (function(module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("// extracted by mini-css-extract-plugin\nmodule.exports = {\"container\":\"Chat_container__k3XdF\",\"header\":\"Chat_header__HOYv8\",\"scroller\":\"Chat_scroller__MDH6J\",\"messages\":\"Chat_messages__UPqkQ\",\"messageRow\":\"Chat_messageRow__I_NdE\",\"user\":\"Chat_user__tEGUe\",\"assistant\":\"Chat_assistant__JH0dP\",\"bubble\":\"Chat_bubble__AtaBL\",\"userBubble\":\"Chat_userBubble__tYKAB\",\"assistantBubble\":\"Chat_assistantBubble__b7QIS\",\"error\":\"Chat_error__btmt8\",\"footer\":\"Chat_footer__SRbhG\",\"footerInner\":\"Chat_footerInner___StIO\",\"inputs\":\"Chat_inputs__YhmeF\",\"input\":\"Chat_input__kkMMP\",\"button\":\"Chat_button__Aehkj\",\"muted\":\"Chat_muted__gKufs\"};\n    if(true) {\n      // 1756747975072\n      var cssReload = __webpack_require__(/*! ./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js */ \"(app-pages-browser)/./node_modules/next/dist/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js\")(module.id, {\"publicPath\":\"/_next/\",\"esModule\":false,\"locals\":true});\n      module.hot.dispose(cssReload);\n      \n    }\n  \nmodule.exports.__checksum = \"5a0bede9e064\"\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1wYWdlcy1icm93c2VyKS8uL3N0eWxlcy9DaGF0Lm1vZHVsZS5jc3MiLCJtYXBwaW5ncyI6IkFBQUE7QUFDQSxrQkFBa0I7QUFDbEIsT0FBTyxJQUFVO0FBQ2pCO0FBQ0Esc0JBQXNCLG1CQUFPLENBQUMsd01BQXNKLGNBQWMsc0RBQXNEO0FBQ3hQLE1BQU0sVUFBVTtBQUNoQjtBQUNBO0FBQ0E7QUFDQSx5QkFBeUIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vc3R5bGVzL0NoYXQubW9kdWxlLmNzcz9hMzM3Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIGV4dHJhY3RlZCBieSBtaW5pLWNzcy1leHRyYWN0LXBsdWdpblxubW9kdWxlLmV4cG9ydHMgPSB7XCJjb250YWluZXJcIjpcIkNoYXRfY29udGFpbmVyX19rM1hkRlwiLFwiaGVhZGVyXCI6XCJDaGF0X2hlYWRlcl9fSE9ZdjhcIixcInNjcm9sbGVyXCI6XCJDaGF0X3Njcm9sbGVyX19NREg2SlwiLFwibWVzc2FnZXNcIjpcIkNoYXRfbWVzc2FnZXNfX1VQcWtRXCIsXCJtZXNzYWdlUm93XCI6XCJDaGF0X21lc3NhZ2VSb3dfX0lfTmRFXCIsXCJ1c2VyXCI6XCJDaGF0X3VzZXJfX3RFR1VlXCIsXCJhc3Npc3RhbnRcIjpcIkNoYXRfYXNzaXN0YW50X19KSDBkUFwiLFwiYnViYmxlXCI6XCJDaGF0X2J1YmJsZV9fQXRhQkxcIixcInVzZXJCdWJibGVcIjpcIkNoYXRfdXNlckJ1YmJsZV9fdFlLQUJcIixcImFzc2lzdGFudEJ1YmJsZVwiOlwiQ2hhdF9hc3Npc3RhbnRCdWJibGVfX2I3UUlTXCIsXCJlcnJvclwiOlwiQ2hhdF9lcnJvcl9fYnRtdDhcIixcImZvb3RlclwiOlwiQ2hhdF9mb290ZXJfX1NSYmhHXCIsXCJmb290ZXJJbm5lclwiOlwiQ2hhdF9mb290ZXJJbm5lcl9fX1N0SU9cIixcImlucHV0c1wiOlwiQ2hhdF9pbnB1dHNfX1lobWVGXCIsXCJpbnB1dFwiOlwiQ2hhdF9pbnB1dF9fa2tNTVBcIixcImJ1dHRvblwiOlwiQ2hhdF9idXR0b25fX0FlaGtqXCIsXCJtdXRlZFwiOlwiQ2hhdF9tdXRlZF9fZ0t1ZnNcIn07XG4gICAgaWYobW9kdWxlLmhvdCkge1xuICAgICAgLy8gMTc1Njc0Nzk3NTA3MlxuICAgICAgdmFyIGNzc1JlbG9hZCA9IHJlcXVpcmUoXCIvVXNlcnMvbmVsc29udG9ycmVzL0RvY3VtZW50cy9kZXYvcHJ1ZWJhLWZ1bGxzdGFjay9yaXdpLWZyb250ZW5kL25vZGVfbW9kdWxlcy9uZXh0L2Rpc3QvY29tcGlsZWQvbWluaS1jc3MtZXh0cmFjdC1wbHVnaW4vaG1yL2hvdE1vZHVsZVJlcGxhY2VtZW50LmpzXCIpKG1vZHVsZS5pZCwge1wicHVibGljUGF0aFwiOlwiL19uZXh0L1wiLFwiZXNNb2R1bGVcIjpmYWxzZSxcImxvY2Fsc1wiOnRydWV9KTtcbiAgICAgIG1vZHVsZS5ob3QuZGlzcG9zZShjc3NSZWxvYWQpO1xuICAgICAgXG4gICAgfVxuICBcbm1vZHVsZS5leHBvcnRzLl9fY2hlY2tzdW0gPSBcIjVhMGJlZGU5ZTA2NFwiXG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-pages-browser)/./styles/Chat.module.css\n"));
+
+/***/ })
+
+});
